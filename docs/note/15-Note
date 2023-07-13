@@ -1,0 +1,15 @@
+总结
+	了解Flink Table API&SQL
+	DataStream + SQL
+	DataStream + Table API
+	Table ==> DataStream
+	toAppendStream vs toRetractStream
+	了解动态表
+	Connector
+	Table API & SQL + Watermark + Window 编程套路
+	Flink UDF函数编程	
+
+
+
+
+

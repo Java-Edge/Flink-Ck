@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="javaedge-clickhouse" />
+        <module name="javaedge-flink-datastream" />
+        <module name="javaedge-flink-sql" />
+        <module name="javaedge-flink-dataset" />
+        <module name="javaedge-flink-project" />
+        <module name="javaedge-flink-upgrade" />
+        <module name="javaedge-canal" />
+        <module name="javaedge-flink-basic" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="imooc-clickhouse" target="1.8" />
+      <module name="imooc-flink" target="1.8" />
+      <module name="imooc-flink-basic" target="1.8" />
+      <module name="imooc-flink-dataset" target="1.8" />
+      <module name="imooc-flink-datastream" target="1.8" />
+      <module name="imooc-flink-project" target="1.8" />
+      <module name="imooc-flink-sql" target="1.8" />
+      <module name="imooc-flink-upgrade" target="1.8" />
+      <module name="javaedge-clickhouse (1)" target="1.8" />
+      <module name="javaedge-clickhouse (2)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

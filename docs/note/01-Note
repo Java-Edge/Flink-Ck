@@ -1,0 +1,40 @@
+
+业界大数据分布式计算框架
+	批/离线： batch  有界  静态的数据集
+	流式/实时： 连续  无解  动态的数据集
+
+
+MapReduce、Hive	
+DAG： Tez 
+Spark：
+Flink
+
+
+
+Stateful Computations over Data Streams
+	状态的
+		mr spark... 离线数据
+	数据流
+
+批流一体
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
